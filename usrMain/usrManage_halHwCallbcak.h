@@ -1,0 +1,6 @@
+#ifndef __USRMANAGE_HALHWCALLBACK_H_
+#define __USRMANAGE_HALHWCALLBACK_H_
+
+
+
+#endif
